@@ -1,0 +1,7 @@
+C:\Users\Yauheni_Sheima\source\repos\IntroductionConsole\IntroductionConsole\bin\Debug\IntroductionConsole.exe.config
+C:\Users\Yauheni_Sheima\source\repos\IntroductionConsole\IntroductionConsole\bin\Debug\IntroductionConsole.exe
+C:\Users\Yauheni_Sheima\source\repos\IntroductionConsole\IntroductionConsole\bin\Debug\IntroductionConsole.pdb
+C:\Users\Yauheni_Sheima\source\repos\IntroductionConsole\IntroductionConsole\obj\Debug\IntroductionConsole.csprojResolveAssemblyReference.cache
+C:\Users\Yauheni_Sheima\source\repos\IntroductionConsole\IntroductionConsole\obj\Debug\IntroductionConsole.csproj.CoreCompileInputs.cache
+C:\Users\Yauheni_Sheima\source\repos\IntroductionConsole\IntroductionConsole\obj\Debug\IntroductionConsole.exe
+C:\Users\Yauheni_Sheima\source\repos\IntroductionConsole\IntroductionConsole\obj\Debug\IntroductionConsole.pdb
